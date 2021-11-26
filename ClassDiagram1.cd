@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ByronSantacruz3BFacultad.Estudiantes">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQQAASgEAQAAwAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Estudiantes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ByronSantacruz3BFacultad.Persona">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAACAAAAAAABAAAAAAAABAAACA=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ByronSantacruz3BFacultad.Personal_Servicio">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="ByronSantacruz3BFacultad.Persona" FixedToPoint="true">
+      <Path>
+        <Point X="8.5" Y="2.882" />
+        <Point X="8.5" Y="3.058" />
+        <Point X="6.25" Y="3.058" />
+        <Point X="6.25" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAUAACgEAQgAiAIAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Personal_Servicio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ByronSantacruz3BFacultad.Profe_Contrato">
+    <Position X="9.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAwAAAAAA=</HashCode>
+      <FileName>Profe_Contrato .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ByronSantacruz3BFacultad.Profe_Nombremiento">
+    <Position X="6" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Profe_Nombremiento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ByronSantacruz3BFacultad.Profesores">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACgEAQgAgAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Profesores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
